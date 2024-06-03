@@ -3,3 +3,6 @@ new new code
 
 google
 my pc
+
+microsoft edge
+hangul
